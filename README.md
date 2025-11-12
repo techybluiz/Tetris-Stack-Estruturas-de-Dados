@@ -1,9 +1,4 @@
-# 🧩 Tetris Stack
-
-## 📘 Sobre o projeto
-Este projeto tem como objetivo implementar, em linguagem **C**, as estruturas de dados **fila** e **pilha**, simulando o controle de peças do jogo **Tetris Stack**.  
-A **fila** representa as peças futuras que serão jogadas, e a **pilha** funciona como o sistema de reserva, permitindo guardar e recuperar peças.
-
+# Tetris Stack
 ---
 
 ## 🎯 Objetivos
@@ -15,7 +10,7 @@ A **fila** representa as peças futuras que serão jogadas, e a **pilha** funcio
 
 ## ⚙️ Tecnologias utilizadas
 - Linguagem **C**
-- Conceitos de **Estruturas de Dados** (Fila e Pilha)
+- Conceitos de **Estruturas de Dados**
 - **Structs**, **funções**, **ponteiros** e **arrays**
 
 ---
